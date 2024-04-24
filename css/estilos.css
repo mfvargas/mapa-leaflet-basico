@@ -1,0 +1,4 @@
+/* Tamaño del elemento mapaid, contenedor del mapa Leaflet */
+#mapaid {
+  height: 800px;
+}
